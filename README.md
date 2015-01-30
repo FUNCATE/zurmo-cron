@@ -16,10 +16,14 @@ chmod +x zurmo-cron
 
 Edit file
 
+```sh
 /etc/cron.d/zurmo-cron
+```
 
-Set variables USER and FOLDER
+Set variables *USER* and *FOLDER*
 
-`USERZ`: CRM the User that will perform the task
-`USERSYS`: System the user that will perform the cron
+`USER_ZURMO`: CRM the User that will perform the task
+
+`USER_SYSTEM`: System the user that will perform the cron
+
 `FOLDER`: Folder where you installed the Zurmo
