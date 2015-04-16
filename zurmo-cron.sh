@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Complete cron for ZurmoCRM - v2.0.18
 #
